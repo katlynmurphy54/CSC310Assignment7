@@ -1,4 +1,4 @@
-# CSC 310 Assignment 7
+# CSC 310 Assignment 7 - Spring 2020
 The purpose of this assignment is to write a program in Java that 
 maintains an AVL tree for keeping Customer objects (with name, account number, 
 and balance as their attributes) in the tree.  The nodes are sorted based on 
